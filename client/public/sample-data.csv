@@ -1,0 +1,51 @@
+employeeId,gender,race,jobTitle,location,yearsExperience,yearsInRole,performanceRating,baseSalary
+EMP001,Male,White,Software Engineer,California,5,2,Above Midpoint,120000
+EMP002,Female,White,Software Engineer,California,5,2,Above Midpoint,112000
+EMP003,Male,Asian,Software Engineer,California,6,3,Midpoint,115000
+EMP004,Female,Black,Software Engineer,California,5,2,Midpoint,108000
+EMP005,Male,White,Senior Engineer,California,10,4,Above Midpoint,155000
+EMP006,Female,Hispanic,Senior Engineer,California,10,5,Above Midpoint,148000
+EMP007,Male,White,Manager,California,12,3,Above Midpoint,175000
+EMP008,Female,Asian,Manager,California,11,2,Midpoint,165000
+EMP009,Male,Black,Software Engineer,Texas,4,1,Below Midpoint,95000
+EMP010,Female,White,Software Engineer,Texas,4,2,Midpoint,98000
+EMP011,Male,White,Software Engineer,New York,7,3,Above Midpoint,135000
+EMP012,Female,Hispanic,Software Engineer,New York,7,3,Midpoint,128000
+EMP013,Male,Asian,Senior Engineer,New York,12,5,Above Midpoint,170000
+EMP014,Female,White,Senior Engineer,New York,11,4,Above Midpoint,165000
+EMP015,Male,White,Data Analyst,California,3,1,Midpoint,85000
+EMP016,Female,Black,Data Analyst,California,3,1,Midpoint,82000
+EMP017,Male,White,Data Analyst,Texas,5,2,Above Midpoint,92000
+EMP018,Female,Asian,Data Analyst,Texas,5,2,Midpoint,88000
+EMP019,Male,Hispanic,Manager,Texas,15,6,Above Midpoint,160000
+EMP020,Female,White,Manager,Texas,14,5,Above Midpoint,155000
+EMP021,Male,White,Software Engineer,California,8,4,Above Midpoint,130000
+EMP022,Female,Black,Software Engineer,California,8,3,Midpoint,122000
+EMP023,Male,Asian,Software Engineer,New York,6,2,Above Midpoint,125000
+EMP024,Female,Hispanic,Software Engineer,New York,6,2,Midpoint,118000
+EMP025,Male,White,Senior Engineer,California,13,6,Above Midpoint,165000
+EMP026,Female,White,Senior Engineer,California,13,5,Above Midpoint,162000
+EMP027,Male,Black,Data Analyst,New York,4,2,Midpoint,90000
+EMP028,Female,Asian,Data Analyst,New York,4,1,Midpoint,88000
+EMP029,Male,White,Manager,New York,16,7,Above Midpoint,185000
+EMP030,Female,Hispanic,Manager,New York,15,6,Above Midpoint,178000
+EMP031,Male,Asian,Software Engineer,California,5,2,Midpoint,118000
+EMP032,Female,White,Software Engineer,California,5,2,Above Midpoint,115000
+EMP033,Male,Hispanic,Senior Engineer,Texas,11,4,Above Midpoint,145000
+EMP034,Female,Black,Senior Engineer,Texas,10,3,Midpoint,138000
+EMP035,Male,White,Data Analyst,California,6,3,Above Midpoint,95000
+EMP036,Female,Asian,Data Analyst,California,6,3,Midpoint,92000
+EMP037,Male,Black,Software Engineer,Texas,7,3,Above Midpoint,110000
+EMP038,Female,White,Software Engineer,Texas,7,3,Midpoint,108000
+EMP039,Male,White,Senior Engineer,New York,14,7,Above Midpoint,175000
+EMP040,Female,Hispanic,Senior Engineer,New York,13,6,Above Midpoint,168000
+EMP041,Male,Asian,Manager,California,17,8,Above Midpoint,190000
+EMP042,Female,White,Manager,California,16,7,Above Midpoint,185000
+EMP043,Male,White,Software Engineer,New York,9,4,Above Midpoint,140000
+EMP044,Female,Black,Software Engineer,New York,9,4,Midpoint,132000
+EMP045,Male,Hispanic,Data Analyst,Texas,5,2,Midpoint,88000
+EMP046,Female,Asian,Data Analyst,Texas,5,2,Midpoint,86000
+EMP047,Male,White,Senior Engineer,California,12,5,Above Midpoint,160000
+EMP048,Female,White,Senior Engineer,California,12,5,Above Midpoint,158000
+EMP049,Male,Black,Manager,Texas,14,5,Above Midpoint,165000
+EMP050,Female,Hispanic,Manager,Texas,14,5,Above Midpoint,162000

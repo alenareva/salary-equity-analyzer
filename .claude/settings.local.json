@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python3:*)",
+      "Bash(npx tsc:*)",
+      "Bash(pnpm list:*)",
+      "Bash(pnpm add:*)",
+      "Bash(npx tsx:*)"
+    ]
+  }
+}
