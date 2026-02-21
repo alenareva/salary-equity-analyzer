@@ -5,7 +5,8 @@
       "Bash(npx tsc:*)",
       "Bash(pnpm list:*)",
       "Bash(pnpm add:*)",
-      "Bash(npx tsx:*)"
+      "Bash(npx tsx:*)",
+      "Bash(pnpm run build:*)"
     ]
   }
 }
